@@ -1,0 +1,12 @@
+CogniVoice Insight Demo
+Copyright © 2026. All rights reserved.
+
+You may access and interact with this hosted demo solely to evaluate it.
+You may share the link to the hosted demo.
+
+Except as permitted by applicable law or with prior written permission
+from the rights holder, you may not reproduce, modify, redistribute,
+mirror, rehost, sublicense, sell, or otherwise reuse this demo, its
+source code, or its original content. No open-source licence is granted.
+
+Third-party materials remain subject to their respective licence terms.
